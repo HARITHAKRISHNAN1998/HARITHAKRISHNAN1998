@@ -1,1 +1,1 @@
-- this is basic code of linuc device drivers
+- this is basic code of linux device drivers
